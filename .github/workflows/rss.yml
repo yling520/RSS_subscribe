@@ -37,6 +37,9 @@ jobs:
       - name: Run RSS generator
         run: python multiple_requests.py
 
+      - name: Run GitHub trends RSS
+        run: python wuzao_trends.py
+
       - name: Configure Git
         run: |
           git config --local user.name "github-actions[bot]"

@@ -2,3 +2,4 @@ feedgen
 selenium
 selenium-stealth
 bs4
+requests
