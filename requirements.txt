@@ -1,0 +1,4 @@
+feedgen
+selenium
+selenium-stealth
+bs4

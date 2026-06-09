@@ -1,0 +1,49 @@
+name: Bilibili RSS Update
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  rss:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Get Chrome version
+        run: |
+          FULL_VERSION=$(google-chrome --version | grep -oP 'Chrome \K[0-9.]+')
+          echo "CHROME_VERSION=$FULL_VERSION" >> $GITHUB_ENV
+          echo "Chrome version: $FULL_VERSION"
+
+      - name: Download ChromeDriver
+        run: |
+          curl -sL "https://storage.googleapis.com/chrome-for-testing-public/${CHROME_VERSION}/linux64/chromedriver-linux64.zip" -o chromedriver.zip
+          unzip -q chromedriver.zip
+          mv chromedriver-linux64/chromedriver .
+          chmod +x chromedriver
+          rm -rf chromedriver.zip chromedriver-linux64
+
+      - name: Install dependencies
+        run: |
+          pip install feedgen selenium selenium-stealth
+
+      - name: Run RSS generator
+        run: python multiple_requests.py
+
+      - name: Configure Git
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push output
+        run: |
+          git add output/
+          git diff --staged --quiet || git commit -m "Update RSS feeds $(date +'%Y-%m-%d %H:%M')"
+          git push
