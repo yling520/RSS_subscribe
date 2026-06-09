@@ -14,17 +14,27 @@ OUTPUT_DIR = os.path.join(SCRIPT_DIR, 'output')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # 拦截 fetch 请求，捕获 arc/search API 的响应数据
+# 用 __arcEpoch 防止上一个 UID 的响应覆盖当前结果
 FETCH_INTERCEPTOR = '''
 window.__arcSearchResult = null;
+window.__arcEpoch = 0;
+window.__arcSearchUrl = '';
 const _origFetch = window.fetch;
 window.fetch = function() {
     const url = typeof arguments[0] === 'string' ? arguments[0] : (arguments[0] ? arguments[0].url : '');
+    const capturedEpoch = window.__arcEpoch;
     return _origFetch.apply(this, arguments).then(function(response) {
         if (url.indexOf('arc/search') !== -1) {
             response.clone().json().then(function(data) {
-                window.__arcSearchResult = data;
+                if (window.__arcEpoch === capturedEpoch) {
+                    window.__arcSearchResult = data;
+                    window.__arcSearchUrl = url;
+                }
             }).catch(function() {
-                window.__arcSearchResult = {__error: true, status: response.status};
+                if (window.__arcEpoch === capturedEpoch) {
+                    window.__arcSearchResult = {__error: true, status: response.status};
+                    window.__arcSearchUrl = url;
+                }
             });
         }
         return response;
@@ -101,7 +111,8 @@ def wait_for_api(driver):
 
 # SPA 内导航：通过 pushState 切换 UID，不刷新页面
 def navigate_to_uid(driver, uid):
-    driver.execute_script('window.__arcSearchResult = null;')
+    # 递增 epoch 使上一个 UID 的慢响应失效
+    driver.execute_script('window.__arcEpoch++; window.__arcSearchResult = null;')
     driver.execute_script(f'''
         window.history.pushState({{}}, '', '/{uid}/video');
         window.dispatchEvent(new PopStateEvent('popstate', {{state: {{}}}}));
@@ -123,7 +134,13 @@ def load_uid_page(driver, uid):
 
 def try_uid_spa(driver, uid):
     navigate_to_uid(driver, uid)
-    return wait_for_api(driver)
+    result = wait_for_api(driver)
+    # 校验响应 URL 的 mid 参数是否匹配请求的 UID
+    if result and not result.get('__error'):
+        search_url = driver.execute_script('return window.__arcSearchUrl || ""')
+        if not search_url or f'mid={uid}' not in search_url:
+            return None
+    return result
 
 
 def try_uid_full(driver, uid):
@@ -191,8 +208,8 @@ with open(os.path.join(SCRIPT_DIR, 'list_of_UID.txt'), 'r') as f:
     UIDs = [line.strip() for line in f if line.strip()]
 print("UIDs:", UIDs)
 
-# 第1次尝试用SPA，后续重试全部用全页面导航
-FULL_THRESHOLD = 1
+# 全部使用全页面导航，B站 SPA 不支持 pushState 触发路由
+FULL_THRESHOLD = 0
 
 _t0 = time.time()
 driver = create_driver()
