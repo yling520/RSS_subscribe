@@ -8,6 +8,7 @@ from datetime import datetime, timezone
 import os
 import time
 import random
+import re
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, 'output')
@@ -60,6 +61,10 @@ function check() {
 }
 check();
 '''
+
+def _sanitize(s):
+    return re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', str(s))
+
 
 RSS_FILES = []
 
@@ -183,14 +188,16 @@ def generate_rss(uid, vlist):
 
     for video in vlist:
         fe = fg.add_entry()
-        fe.title(video['title'])
+        fe.title(_sanitize(video['title']))
         fe.link(href=f"https://www.bilibili.com/video/{video['bvid']}")
         fe.guid(video['bvid'], permalink=False)
 
-        if video.get('author'):
-            fe.author({'name': video['author']})
-        if video.get('typename'):
-            fe.category(term=video['typename'])
+        author = _sanitize(video.get('author', ''))
+        if author:
+            fe.author({'name': author})
+        typename = _sanitize(video.get('typename', ''))
+        if typename:
+            fe.category(term=typename)
 
         pic = video.get('pic', '')
         if pic.startswith('http://'):
@@ -202,13 +209,14 @@ def generate_rss(uid, vlist):
         date_str = pub_date.strftime('%Y-%m-%d %H:%M')
 
         length = video.get('length', '')
-        desc_text = video.get('description', '').strip()[:200]
+        desc_text = _sanitize(video.get('description', ''))[:200]
         play = video.get('play', 0)
         review = video.get('review', 0)
 
-        parts = [f'<img src="{pic}" alt="{video["title"]}">']
-        parts.append(f'<p><strong>{video["title"]}</strong></p>')
-        parts.append(f'<p>UP主: {video.get("author", "未知")} | 分类: {video.get("typename", "未知")}</p>')
+        title_safe = _sanitize(video['title'])
+        parts = [f'<img src="{pic}" alt="{title_safe}">']
+        parts.append(f'<p><strong>{title_safe}</strong></p>')
+        parts.append(f'<p>UP主: {_sanitize(str(video.get("author", "未知")))} | 分类: {_sanitize(str(video.get("typename", "未知")))}</p>')
         if length:
             parts.append(f'<p>时长: {length} | 播放: {play:,} | 弹幕: {review:,}</p>')
         else:
