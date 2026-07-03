@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>1318868 RSS feed</title><link>https://space.bilibili.com/1318868/video</link><description>RSS feed for Bilibili user 1318868</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 03 Jul 2026 08:53:22 +0000</lastBuildDate><item><title>【Py】dataclass：懂事的类会自己生成方法 | Python特性</title><link>https://www.bilibili.com/video/BV15zSVYtE13</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/f80f992e38ff446b4655840655329b3231aec31e.jpg" alt="【Py】dataclass：懂事的类会自己生成方法 | Python特性"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>1318868 RSS feed</title><link>https://space.bilibili.com/1318868/video</link><description>RSS feed for Bilibili user 1318868</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 03 Jul 2026 13:49:28 +0000</lastBuildDate><item><title>【Py】dataclass：懂事的类会自己生成方法 | Python特性</title><link>https://www.bilibili.com/video/BV15zSVYtE13</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/f80f992e38ff446b4655840655329b3231aec31e.jpg" alt="【Py】dataclass：懂事的类会自己生成方法 | Python特性"&gt;
 &lt;p&gt;&lt;strong&gt;【Py】dataclass：懂事的类会自己生成方法 | Python特性&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 07:00 | 播放: 38,529 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 07:00 | 播放: 38,531 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;Dataclass，一个懂事的类，会自动生成有用的方法。&lt;/p&gt;
 &lt;p&gt;发布时间: 2024-10-30 15:23&lt;/p&gt;</description><guid isPermaLink="false">BV15zSVYtE13</guid><pubDate>Wed, 30 Oct 2024 15:23:37 +0000</pubDate></item><item><title>相对导入：解决导不进的问题 | Python 易错点</title><link>https://www.bilibili.com/video/BV1p3DVY6E5A</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/d2686ee9734d46c1c2448cc38703fa76f3dd5a41.jpg" alt="相对导入：解决导不进的问题 | Python 易错点"&gt;
 &lt;p&gt;&lt;strong&gt;相对导入：解决导不进的问题 | Python 易错点&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 05:17 | 播放: 57,028 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 05:17 | 播放: 57,030 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频主要解决，明明我文件就在这，怎么就 module not found 的问题。&lt;/p&gt;
 &lt;p&gt;发布时间: 2024-11-06 13:37&lt;/p&gt;</description><guid isPermaLink="false">BV1p3DVY6E5A</guid><pubDate>Wed, 06 Nov 2024 13:37:06 +0000</pubDate></item><item><title>四种特殊断点，快速定位臭虫 | vscode | 调试技巧 | debug</title><link>https://www.bilibili.com/video/BV1EpmbYqExH</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/a9608846da891bc21ec12e4b3df14e827db36f33.jpg" alt="四种特殊断点，快速定位臭虫 | vscode | 调试技巧 | debug"&gt;
 &lt;p&gt;&lt;strong&gt;四种特殊断点，快速定位臭虫 | vscode | 调试技巧 | debug&lt;/strong&gt;&lt;/p&gt;
@@ -21,7 +21,7 @@
 &lt;p&gt;发布时间: 2024-11-13 11:00&lt;/p&gt;</description><guid isPermaLink="false">BV1EpmbYqExH</guid><pubDate>Wed, 13 Nov 2024 11:00:00 +0000</pubDate></item><item><title>如何用 AI 建立自己的私人软件公司？【多智能体系统】| python | crewai | multi-agent system</title><link>https://www.bilibili.com/video/BV1kZimYKELT</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/8ec2159d3438a517b3fbdfd89aca0cba9233ee60.jpg" alt="如何用 AI 建立自己的私人软件公司？【多智能体系统】| python | crewai | multi-agent system"&gt;
 &lt;p&gt;&lt;strong&gt;如何用 AI 建立自己的私人软件公司？【多智能体系统】| python | crewai | multi-agent system&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 13:00 | 播放: 24,742 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 13:00 | 播放: 24,743 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;现在 AI 基本上可以做大部分人类的工作了，那么自然我们会有一些资本家思想，想让 AI 帮我打工。这期视频我们就来建造一个简易的、实验性质的 AI 开发团队。通过输入需求，它会产生代码并自己测试正确性。&lt;/p&gt;
 &lt;p&gt;发布时间: 2024-12-05 04:21&lt;/p&gt;</description><guid isPermaLink="false">BV1kZimYKELT</guid><pubDate>Thu, 05 Dec 2024 04:21:00 +0000</pubDate></item><item><title>只用python，也能全栈 | gradio | devbox | 前端 | 部署 | 运维</title><link>https://www.bilibili.com/video/BV18iqbYaEoP</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/5e182241200918afd1756f1335b339ec023a6cfe.jpg" alt="只用python，也能全栈 | gradio | devbox | 前端 | 部署 | 运维"&gt;
 &lt;p&gt;&lt;strong&gt;只用python，也能全栈 | gradio | devbox | 前端 | 部署 | 运维&lt;/strong&gt;&lt;/p&gt;
@@ -32,12 +32,12 @@ Devbox 链接：https://cloud.sealos.run/?uid=j2Y_5Qpy1q&lt;/p&gt;
 &lt;p&gt;发布时间: 2024-12-12 06:00&lt;/p&gt;</description><guid isPermaLink="false">BV18iqbYaEoP</guid><pubDate>Thu, 12 Dec 2024 06:00:00 +0000</pubDate></item><item><title>虚拟环境：你肯定用过，但不一定了解 | Python | venv | pipenv | poetry | vscode</title><link>https://www.bilibili.com/video/BV1MLkmY4E3t</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/7bc2c31ddccbafa6e748336f811de8901bf67f01.jpg" alt="虚拟环境：你肯定用过，但不一定了解 | Python | venv | pipenv | poetry | vscode"&gt;
 &lt;p&gt;&lt;strong&gt;虚拟环境：你肯定用过，但不一定了解 | Python | venv | pipenv | poetry | vscode&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 04:45 | 播放: 68,566 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 04:45 | 播放: 68,570 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;虚拟环境应该每个人都用过，但你未必了解，这个视频将介绍虚拟环境的三要素，Python 解释器、激活脚本和第三方包，并了解它们具体是什么。&lt;/p&gt;
 &lt;p&gt;发布时间: 2024-12-20 12:13&lt;/p&gt;</description><guid isPermaLink="false">BV1MLkmY4E3t</guid><pubDate>Fri, 20 Dec 2024 12:13:40 +0000</pubDate></item><item><title>toml：迄今最适合 Python 项目的配置语言 | json yaml | vscode</title><link>https://www.bilibili.com/video/BV1QNrEY2EvF</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/b685f377107c69544e0979a8059cd69de3e518b5.jpg" alt="toml：迄今最适合 Python 项目的配置语言 | json yaml | vscode"&gt;
 &lt;p&gt;&lt;strong&gt;toml：迄今最适合 Python 项目的配置语言 | json yaml | vscode&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 06:30 | 播放: 65,010 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 06:30 | 播放: 65,012 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;一些语言用于编写和运行程序，比如我们熟知的 Python Java 等等；还有些语言只用来传递信息，例如 JSON、YAML，和这次要介绍的 toml。
 
 比起 json 和 yaml，toml 更加简洁，而且非常适合 Python 项目。它的适合体现在两方面，一是语法非常相似，二是类型完美对应，随着后面的例子你会理解这两点。
@@ -65,7 +65,7 @@ font: CodeNewRoman NF
 &lt;p&gt;发布时间: 2025-02-07 22:00&lt;/p&gt;</description><guid isPermaLink="false">BV1GaNPeKEug</guid><pubDate>Fri, 07 Feb 2025 22:00:00 +0000</pubDate></item><item><title>同事不按我的想法写代码怎么办？</title><link>https://www.bilibili.com/video/BV1w9wQe1EGX</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/224d5786e781a5db5fc09397bb080df34a8e356f.jpg" alt="同事不按我的想法写代码怎么办？"&gt;
 &lt;p&gt;&lt;strong&gt;同事不按我的想法写代码怎么办？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 02:46 | 播放: 50,871 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 02:46 | 播放: 50,873 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;当我们想要实现一个接口，也就是强制类实现某些方法时，就是使用 ABC 的时候。
 
 color theme: ayu
@@ -73,7 +73,7 @@ color theme: ayu
 &lt;p&gt;发布时间: 2025-02-17 04:41&lt;/p&gt;</description><guid isPermaLink="false">BV1w9wQe1EGX</guid><pubDate>Mon, 17 Feb 2025 04:41:31 +0000</pubDate></item><item><title>为什么要写 __init__.py ? | Python</title><link>https://www.bilibili.com/video/BV1QA94YPEMK</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/9fa0b705737d4d4c24d431094040be9b30f0287d.jpg" alt="为什么要写 __init__.py ? | Python"&gt;
 &lt;p&gt;&lt;strong&gt;为什么要写 __init__.py ? | Python&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 04:09 | 播放: 455,219 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 04:09 | 播放: 455,238 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;为什么很多包里都有 __init__.py？
 
 ide: vscode
@@ -82,7 +82,7 @@ font: CodeNewRoman NF&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-03-05 05:51&lt;/p&gt;</description><guid isPermaLink="false">BV1QA94YPEMK</guid><pubDate>Wed, 05 Mar 2025 05:51:18 +0000</pubDate></item><item><title>MCP，让 AI 再次伟大</title><link>https://www.bilibili.com/video/BV1TqXWYnEiw</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/a69268c6cf10155bc79c5aae3b1f943dc77c130f.jpg" alt="MCP，让 AI 再次伟大"&gt;
 &lt;p&gt;&lt;strong&gt;MCP，让 AI 再次伟大&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 09:14 | 播放: 167,534 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 09:14 | 播放: 167,535 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频介绍了什么是MCP，如何建造MCP和使用MCP。
 
 仓库链接：https://github.com/huccihuang/bilibili-mcp-server
@@ -111,7 +111,7 @@ font：codenewroman nf
 &lt;p&gt;发布时间: 2025-04-17 12:10&lt;/p&gt;</description><guid isPermaLink="false">BV1r45vzQEvM</guid><pubDate>Thu, 17 Apr 2025 12:10:14 +0000</pubDate></item><item><title>为什么不建议直接在 Python 代码里写 sql 语句 | orm | sqlmodel</title><link>https://www.bilibili.com/video/BV18iEJzNECT</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/0a929d022c63b11663c24cb18d66c41dd44a8057.jpg" alt="为什么不建议直接在 Python 代码里写 sql 语句 | orm | sqlmodel"&gt;
 &lt;p&gt;&lt;strong&gt;为什么不建议直接在 Python 代码里写 sql 语句 | orm | sqlmodel&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 15:19 | 播放: 68,414 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 15:19 | 播放: 68,422 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频说明了
 1. 直接在代码中写 sql 语句有注入的风险，而且也不好维护，通过 orm 可以避免这两点；
 2. Sqlmodel 是一个 orm 库，通过 sqlmodel 我们可以通过定义一个类来定义表，类的实例就是表里的记录；
@@ -122,7 +122,7 @@ ide:&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-05-12 10:15&lt;/p&gt;</description><guid isPermaLink="false">BV18iEJzNECT</guid><pubDate>Mon, 12 May 2025 10:15:42 +0000</pubDate></item><item><title>【uv】Python迄今最好的项目管理+环境管理工具（吧？）</title><link>https://www.bilibili.com/video/BV1ajJ7zPEa5</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/8156a694d8741e3878fc7d5626b5c07a88f7ff9f.jpg" alt="【uv】Python迄今最好的项目管理+环境管理工具（吧？）"&gt;
 &lt;p&gt;&lt;strong&gt;【uv】Python迄今最好的项目管理+环境管理工具（吧？）&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 06:38 | 播放: 52,260 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 06:38 | 播放: 52,268 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频我们介绍一下可能是目前最好的 Python 项目管理工具和环境管理工具 uv，如果你知道 npm 或者 cargo，你可以将 uv 理解为 python 的 npm 或者 cargo。我们从三个角度说明它的作用。
 
 - 用 `uv` 创建项目
@@ -135,14 +135,14 @@ font: CodeNewRoman NF
 &lt;p&gt;发布时间: 2025-05-22 05:23&lt;/p&gt;</description><guid isPermaLink="false">BV1ajJ7zPEa5</guid><pubDate>Thu, 22 May 2025 05:23:25 +0000</pubDate></item><item><title>怎么正确 git commit？</title><link>https://www.bilibili.com/video/BV12vjZzaEPM</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/06957b09ca5616bb2032a934b576187b3a2c335a.jpg" alt="怎么正确 git commit？"&gt;
 &lt;p&gt;&lt;strong&gt;怎么正确 git commit？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 01:30 | 播放: 41,251 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 01:30 | 播放: 41,255 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频能帮你写出更专业、更清晰的 commit。
 
 知识星球 https://t.zsxq.com/K78RA&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-05-27 23:00&lt;/p&gt;</description><guid isPermaLink="false">BV12vjZzaEPM</guid><pubDate>Tue, 27 May 2025 23:00:00 +0000</pubDate></item><item><title>【git worktree】让30%的git stash惨遭失业</title><link>https://www.bilibili.com/video/BV1m2NtzpEXY</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/f03daeccba8629d7baa1128fde344c507f79ce9e.jpg" alt="【git worktree】让30%的git stash惨遭失业"&gt;
 &lt;p&gt;&lt;strong&gt;【git worktree】让30%的git stash惨遭失业&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 04:02 | 播放: 73,674 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 04:02 | 播放: 73,680 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频介绍了 git worktree 的概念和用法。
 
 ide: vscode
@@ -151,7 +151,7 @@ font: code newroman nf
 &lt;p&gt;发布时间: 2025-06-16 14:55&lt;/p&gt;</description><guid isPermaLink="false">BV1m2NtzpEXY</guid><pubDate>Mon, 16 Jun 2025 14:55:57 +0000</pubDate></item><item><title>试了个冷门 AI 工具，一行 prompt 就给 JupyterLab 加了个新功能</title><link>https://www.bilibili.com/video/BV12UKFz3EJa</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/3b1d8183b40309ff53f1b81ff6f8c6d3fe18a5b8.jpg" alt="试了个冷门 AI 工具，一行 prompt 就给 JupyterLab 加了个新功能"&gt;
 &lt;p&gt;&lt;strong&gt;试了个冷门 AI 工具，一行 prompt 就给 JupyterLab 加了个新功能&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 05:33 | 播放: 7,597 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 05:33 | 播放: 7,598 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频介绍了通过AI工具，只使用一行prompt，就可以给耳熟能详的jupyter lab加一个实用功能
 
 仓库链接: https://github.com/huccihuang/jupyterlab
@@ -162,7 +162,7 @@ font: code newroman nf
 &lt;p&gt;发布时间: 2025-06-20 05:49&lt;/p&gt;</description><guid isPermaLink="false">BV12UKFz3EJa</guid><pubDate>Fri, 20 Jun 2025 05:49:06 +0000</pubDate></item><item><title>为什么列表不能作为字典的key【Python】</title><link>https://www.bilibili.com/video/BV1bw3HzDEuU</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/59f9ca361c32063d59f994495b7f5448eb8079c8.jpg" alt="为什么列表不能作为字典的key【Python】"&gt;
 &lt;p&gt;&lt;strong&gt;为什么列表不能作为字典的key【Python】&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 05:02 | 播放: 27,761 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 05:02 | 播放: 27,762 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频解释了列表不能作为字典的 key 和 hashable 协议。
 
 ide: vsc
@@ -171,12 +171,12 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-07-02 01:00&lt;/p&gt;</description><guid isPermaLink="false">BV1bw3HzDEuU</guid><pubDate>Wed, 02 Jul 2025 01:00:00 +0000</pubDate></item><item><title>【Gemini CLI】让最强模型接管我的电脑</title><link>https://www.bilibili.com/video/BV1YKGwzgE6D</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/289e9ce7e6b50a83aedfb7110f640e7b5066a676.jpg" alt="【Gemini CLI】让最强模型接管我的电脑"&gt;
 &lt;p&gt;&lt;strong&gt;【Gemini CLI】让最强模型接管我的电脑&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 06:25 | 播放: 45,966 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 06:25 | 播放: 45,968 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;今天介绍的工具 gemini cli 可以直接修改我们电脑上的文件，使用的是目前最强的模型之一 gemini 2.5 pro，而且还不用花一分钱。&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-07-09 06:51&lt;/p&gt;</description><guid isPermaLink="false">BV1YKGwzgE6D</guid><pubDate>Wed, 09 Jul 2025 06:51:56 +0000</pubDate></item><item><title>网站不存密码，怎么知道你输对了？【哈希】</title><link>https://www.bilibili.com/video/BV1W1utzZESe</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/90b1de9c2d879358c260025bcf62103cbb0fb4b6.jpg" alt="网站不存密码，怎么知道你输对了？【哈希】"&gt;
 &lt;p&gt;&lt;strong&gt;网站不存密码，怎么知道你输对了？【哈希】&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 05:42 | 播放: 137,468 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 05:42 | 播放: 137,472 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频介绍了什么是哈希，哈希的三个特性，哈希的使用场景，哈希的意义，一个简单且脆弱的哈希实现，以及哈希的局限性。&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-07-16 09:00&lt;/p&gt;</description><guid isPermaLink="false">BV1W1utzZESe</guid><pubDate>Wed, 16 Jul 2025 09:00:00 +0000</pubDate></item><item><title>【上下文工程】一起读一下Manus所理解的上下文工程</title><link>https://www.bilibili.com/video/BV1FngBzSEnZ</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/1ab3174f8454183fd8ce4544a96368ec63eddf97.jpg" alt="【上下文工程】一起读一下Manus所理解的上下文工程"&gt;
 &lt;p&gt;&lt;strong&gt;【上下文工程】一起读一下Manus所理解的上下文工程&lt;/strong&gt;&lt;/p&gt;
@@ -190,7 +190,7 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-07-21 08:28&lt;/p&gt;</description><guid isPermaLink="false">BV1FngBzSEnZ</guid><pubDate>Mon, 21 Jul 2025 08:28:17 +0000</pubDate></item><item><title>为什么越来越多Python项目都在写类型注解？</title><link>https://www.bilibili.com/video/BV1sW81zbEkD</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/2aa05a6f92d8fd767df35eff0488437a4a714106.jpg" alt="为什么越来越多Python项目都在写类型注解？"&gt;
 &lt;p&gt;&lt;strong&gt;为什么越来越多Python项目都在写类型注解？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 11:15 | 播放: 51,780 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 11:15 | 播放: 51,782 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频会以目前最新的 3.13 版本来介绍如何写类型注解，有的地方会稍微提到传统写法。 
 
 比起技巧，我更希望能够传递类型注解的理念，“代码即文档”。 
@@ -206,7 +206,7 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-08-12 09:00&lt;/p&gt;</description><guid isPermaLink="false">BV1bmtSzrEWp</guid><pubDate>Tue, 12 Aug 2025 09:00:00 +0000</pubDate></item><item><title>Python 最被低估的 OOP 特性，从 property 到描述符</title><link>https://www.bilibili.com/video/BV1yQpqzQESC</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/ec3c53ff71c99abbc2610dde6e355910f178e199.jpg" alt="Python 最被低估的 OOP 特性，从 property 到描述符"&gt;
 &lt;p&gt;&lt;strong&gt;Python 最被低估的 OOP 特性，从 property 到描述符&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 13:32 | 播放: 30,898 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 13:32 | 播放: 30,899 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频主要讲了三件事。
 
 `property` 可以将一个方法“伪装”成属性。用它，我们可以在用户访问属性时，自动执行计算或验证逻辑，从而保证数据的正确性和一致性。
@@ -217,12 +217,12 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-09-15 14:30&lt;/p&gt;</description><guid isPermaLink="false">BV1yQpqzQESC</guid><pubDate>Mon, 15 Sep 2025 14:30:22 +0000</pubDate></item><item><title>为什么你应该忘掉设计模式？</title><link>https://www.bilibili.com/video/BV1j7HLzkE6q</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/eaf8b8d4f87e3da7c65e569ea6513d364a67e2da.jpg" alt="为什么你应该忘掉设计模式？"&gt;
 &lt;p&gt;&lt;strong&gt;为什么你应该忘掉设计模式？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 02:44 | 播放: 61,159 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 02:44 | 播放: 61,165 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频说明了为什么我们应该忘记设计模式。&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-10-03 14:20&lt;/p&gt;</description><guid isPermaLink="false">BV1j7HLzkE6q</guid><pubDate>Fri, 03 Oct 2025 14:20:05 +0000</pubDate></item><item><title>在Python中用多线程之前，需要先搞懂这些</title><link>https://www.bilibili.com/video/BV1tVsyzUEtX</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/81b102a4f6bea1e32da6e506f0b2c5b51ce7e8ab.jpg" alt="在Python中用多线程之前，需要先搞懂这些"&gt;
 &lt;p&gt;&lt;strong&gt;在Python中用多线程之前，需要先搞懂这些&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 11:26 | 播放: 47,717 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 11:26 | 播放: 47,723 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;1. 多线程可以让你的程序同时开始多个任务。CPU 可以在它们之间交替执行，缩短运行时间；
 
 2. 通过 Python 的 threading 我们可以管理线程，但更省力的方式是通过 concurrent 库使用线程池；
@@ -231,7 +231,7 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-10-27 09:00&lt;/p&gt;</description><guid isPermaLink="false">BV1tVsyzUEtX</guid><pubDate>Mon, 27 Oct 2025 09:00:00 +0000</pubDate></item><item><title>7 分钟学会在Python中多进程</title><link>https://www.bilibili.com/video/BV1eTy7BmEs7</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/dc5b7c854a5394da898464aa198a81cd35992228.jpg" alt="7 分钟学会在Python中多进程"&gt;
 &lt;p&gt;&lt;strong&gt;7 分钟学会在Python中多进程&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 07:21 | 播放: 23,914 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 07:21 | 播放: 23,919 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频介绍了进程、线程、协程的概念，并展示了如何在 Python 中使用多进程。
 
 多线程视频链接：https://www.bilibili.com/video/BV1tVsyzUEtX
@@ -244,7 +244,7 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-11-21 04:00&lt;/p&gt;</description><guid isPermaLink="false">BV1vBCTBQEnq</guid><pubDate>Fri, 21 Nov 2025 04:00:00 +0000</pubDate></item><item><title>为什么大佬都在用 Github Actions 做 CICD？</title><link>https://www.bilibili.com/video/BV1jNSEBiE6D</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/0c6afb89c79da57e5849eb0ecbd2bdb2c6629d54.jpg" alt="为什么大佬都在用 Github Actions 做 CICD？"&gt;
 &lt;p&gt;&lt;strong&gt;为什么大佬都在用 Github Actions 做 CICD？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 10:02 | 播放: 63,637 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 10:02 | 播放: 63,652 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频介绍了如何使用 github actions 实现 CICD。
 
 视频中展示的仓库：https://github.com/huccihuang/cicd-example
@@ -259,12 +259,12 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-12-02 12:09&lt;/p&gt;</description><guid isPermaLink="false">BV1QhS4BSE1e</guid><pubDate>Tue, 02 Dec 2025 12:09:32 +0000</pubDate></item><item><title>原来我，一点都不懂 git</title><link>https://www.bilibili.com/video/BV18ZiFB3EUy</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/43934a8380342e8e65e163d7f0ece703b25e6406.jpg" alt="原来我，一点都不懂 git"&gt;
 &lt;p&gt;&lt;strong&gt;原来我，一点都不懂 git&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 06:16 | 播放: 59,339 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 06:16 | 播放: 59,347 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;git 的本质，其实只是三个对象&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-01-02 09:10&lt;/p&gt;</description><guid isPermaLink="false">BV18ZiFB3EUy</guid><pubDate>Fri, 02 Jan 2026 09:10:48 +0000</pubDate></item><item><title>AI 毁了我的代码，直到我开始TDD</title><link>https://www.bilibili.com/video/BV1KK6jBREec</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/8834093ebc3a8921aaa0fa859ff1074e0fd2dfea.jpg" alt="AI 毁了我的代码，直到我开始TDD"&gt;
 &lt;p&gt;&lt;strong&gt;AI 毁了我的代码，直到我开始TDD&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 02:54 | 播放: 48,333 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 02:54 | 播放: 48,341 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;知识星球 https://t.zsxq.com/lNpbi
 欢迎加入学习！&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-01-28 09:15&lt;/p&gt;</description><guid isPermaLink="false">BV1KK6jBREec</guid><pubDate>Wed, 28 Jan 2026 09:15:00 +0000</pubDate></item><item><title>我用阿里云搭了个真正的个人助手 | clawdbot | openclaw | moltbot</title><link>https://www.bilibili.com/video/BV1Rt6qBFE6t</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/39a5933f1b7105eb56e2db5ca58129cfcb7a0b05.jpg" alt="我用阿里云搭了个真正的个人助手 | clawdbot | openclaw | moltbot"&gt;
@@ -281,33 +281,33 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-02-02 12:28&lt;/p&gt;</description><guid isPermaLink="false">BV1FCFTzTEUG</guid><pubDate>Mon, 02 Feb 2026 12:28:09 +0000</pubDate></item><item><title>设计 Agent 的记忆，并不只有一种方式</title><link>https://www.bilibili.com/video/BV1bZw4zLEsd</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/c916488d7e8fbdf6d00764b4f65ba72bc0da7c9c.jpg" alt="设计 Agent 的记忆，并不只有一种方式"&gt;
 &lt;p&gt;&lt;strong&gt;设计 Agent 的记忆，并不只有一种方式&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 04:59 | 播放: 7,125 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 04:59 | 播放: 7,126 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;AgentGal 项目地址 https://github.com/huccihuang/AgentGal&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-03-14 15:17&lt;/p&gt;</description><guid isPermaLink="false">BV1bZw4zLEsd</guid><pubDate>Sat, 14 Mar 2026 15:17:38 +0000</pubDate></item><item><title>天才是怎么节省token费用的【Prompt Caching】</title><link>https://www.bilibili.com/video/BV1YyQBBtEfN</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/58dad9860d06ff6a8c5efcec8494cbc8dffb4ba6.jpg" alt="天才是怎么节省token费用的【Prompt Caching】"&gt;
 &lt;p&gt;&lt;strong&gt;天才是怎么节省token费用的【Prompt Caching】&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 02:27 | 播放: 17,284 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 02:27 | 播放: 17,286 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频介绍了如何利用 Prompt Caching 来节省费用&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-03-24 10:25&lt;/p&gt;</description><guid isPermaLink="false">BV1YyQBBtEfN</guid><pubDate>Tue, 24 Mar 2026 10:25:21 +0000</pubDate></item><item><title>AI 时代，我为什么反而回到终端?</title><link>https://www.bilibili.com/video/BV1SeX1B3E21</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/203b8c4356cce70bae41f62786e409bae1507e3d.jpg" alt="AI 时代，我为什么反而回到终端?"&gt;
 &lt;p&gt;&lt;strong&gt;AI 时代，我为什么反而回到终端?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 03:33 | 播放: 38,101 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 03:33 | 播放: 38,113 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这期视频说明了为什么AI时代更要重视终端，并介绍了一些终端好物&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-03-29 09:00&lt;/p&gt;</description><guid isPermaLink="false">BV1SeX1B3E21</guid><pubDate>Sun, 29 Mar 2026 09:00:00 +0000</pubDate></item><item><title>Prompt 和 Context 之后，为什么所有人都在说 Harness？</title><link>https://www.bilibili.com/video/BV1eM9uB7EuS</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/7288a4725c9fd467bd2c26181147055f91654094.jpg" alt="Prompt 和 Context 之后，为什么所有人都在说 Harness？"&gt;
 &lt;p&gt;&lt;strong&gt;Prompt 和 Context 之后，为什么所有人都在说 Harness？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 04:35 | 播放: 25,992 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 04:35 | 播放: 25,995 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;AI 概念一直在演進，從早期的 Prompt Engineering 到現在的 "Harness Engineering"，這背後反映了我們對 AI 理解的不斷加深。本期視頻將深入探討這些概念的區別，特別是 "prompt engineering" 如何讓 AI 輸出更好的回答。我們還會聊到 "context engineering"，這些都是為了應對 AI 的 "ai reliability" &lt;/p&gt;
 &lt;p&gt;发布时间: 2026-04-03 10:47&lt;/p&gt;</description><guid isPermaLink="false">BV1eM9uB7EuS</guid><pubDate>Fri, 03 Apr 2026 10:47:32 +0000</pubDate></item><item><title>我做了个 AI Galgame，但是……</title><link>https://www.bilibili.com/video/BV1JQ5C6tEMn</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/22154ce20d801e944958c411b6b7bd180e8214a6.jpg" alt="我做了个 AI Galgame，但是……"&gt;
 &lt;p&gt;&lt;strong&gt;我做了个 AI Galgame，但是……&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 05:33 | 播放: 6,517 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 05:33 | 播放: 6,518 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;项目链接 https://github.com/huccihuang/AgentGal
 知识星球  https://t.zsxq.com/cGn0U&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-05-13 09:00&lt;/p&gt;</description><guid isPermaLink="false">BV1JQ5C6tEMn</guid><pubDate>Wed, 13 May 2026 09:00:00 +0000</pubDate></item><item><title>Claude Code 为什么不用 RAG？</title><link>https://www.bilibili.com/video/BV18NLx6fEAq</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/1b42b6c21d82aa80181e93719b03737ed2215c62.jpg" alt="Claude Code 为什么不用 RAG？"&gt;
 &lt;p&gt;&lt;strong&gt;Claude Code 为什么不用 RAG？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 03:38 | 播放: 30,433 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 03:38 | 播放: 30,439 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频解释了为什么 claude code 仅使用最基础的 shell 命令做代码检索。
 
 想和更多 AI 工程师讨论？加入知识星球：https://t.zsxq.com/K78RA&lt;/p&gt;
