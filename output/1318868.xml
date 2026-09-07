@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>1318868 RSS feed</title><link>https://space.bilibili.com/1318868/video</link><description>RSS feed for Bilibili user 1318868</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 07 Sep 2026 17:00:13 +0000</lastBuildDate><item><title>只用python，也能全栈 | gradio | devbox | 前端 | 部署 | 运维</title><link>https://www.bilibili.com/video/BV18iqbYaEoP</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/5e182241200918afd1756f1335b339ec023a6cfe.jpg" alt="只用python，也能全栈 | gradio | devbox | 前端 | 部署 | 运维"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>1318868 RSS feed</title><link>https://space.bilibili.com/1318868/video</link><description>RSS feed for Bilibili user 1318868</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 07 Sep 2026 20:58:38 +0000</lastBuildDate><item><title>只用python，也能全栈 | gradio | devbox | 前端 | 部署 | 运维</title><link>https://www.bilibili.com/video/BV18iqbYaEoP</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/5e182241200918afd1756f1335b339ec023a6cfe.jpg" alt="只用python，也能全栈 | gradio | devbox | 前端 | 部署 | 运维"&gt;
 &lt;p&gt;&lt;strong&gt;只用python，也能全栈 | gradio | devbox | 前端 | 部署 | 运维&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
 &lt;p&gt;时长: 08:28 | 播放: 29,232 | 弹幕: 0&lt;/p&gt;
@@ -49,7 +49,7 @@ color theme: ayu
 &lt;p&gt;发布时间: 2025-02-17 04:41&lt;/p&gt;</description><guid isPermaLink="false">BV1w9wQe1EGX</guid><pubDate>Mon, 17 Feb 2025 04:41:31 +0000</pubDate></item><item><title>为什么要写 __init__.py ? | Python</title><link>https://www.bilibili.com/video/BV1QA94YPEMK</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/9fa0b705737d4d4c24d431094040be9b30f0287d.jpg" alt="为什么要写 __init__.py ? | Python"&gt;
 &lt;p&gt;&lt;strong&gt;为什么要写 __init__.py ? | Python&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 04:09 | 播放: 463,844 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 04:09 | 播放: 463,853 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;为什么很多包里都有 __init__.py？
 
 ide: vscode
@@ -68,7 +68,7 @@ font: CodeNewRoman NF&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-03-22 11:45&lt;/p&gt;</description><guid isPermaLink="false">BV1TqXWYnEiw</guid><pubDate>Sat, 22 Mar 2025 11:45:28 +0000</pubDate></item><item><title>namedtuple: 像字典一样好读，像元组一样安全</title><link>https://www.bilibili.com/video/BV1Z3dQYQEu9</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/5ce787eb28df14ea908d529fa13eb02bcdce7466.jpg" alt="namedtuple: 像字典一样好读，像元组一样安全"&gt;
 &lt;p&gt;&lt;strong&gt;namedtuple: 像字典一样好读，像元组一样安全&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 03:29 | 播放: 18,733 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 03:29 | 播放: 18,735 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;希望这个视频能够让你明白 namedtuple 的优点以及应该什么时候用它。如果你的代码中需要同时拥有字典的可读性和元组的不变性的数据结构，而你又不想定义一个完整的类，就可以尝试 namedtuple。
 
 IDE：vscode
@@ -87,7 +87,7 @@ font：codenewroman nf
 &lt;p&gt;发布时间: 2025-04-17 12:10&lt;/p&gt;</description><guid isPermaLink="false">BV1r45vzQEvM</guid><pubDate>Thu, 17 Apr 2025 12:10:14 +0000</pubDate></item><item><title>为什么不建议直接在 Python 代码里写 sql 语句 | orm | sqlmodel</title><link>https://www.bilibili.com/video/BV18iEJzNECT</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/0a929d022c63b11663c24cb18d66c41dd44a8057.jpg" alt="为什么不建议直接在 Python 代码里写 sql 语句 | orm | sqlmodel"&gt;
 &lt;p&gt;&lt;strong&gt;为什么不建议直接在 Python 代码里写 sql 语句 | orm | sqlmodel&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 15:19 | 播放: 70,515 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 15:19 | 播放: 70,518 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频说明了
 1. 直接在代码中写 sql 语句有注入的风险，而且也不好维护，通过 orm 可以避免这两点；
 2. Sqlmodel 是一个 orm 库，通过 sqlmodel 我们可以通过定义一个类来定义表，类的实例就是表里的记录；
@@ -118,7 +118,7 @@ font: CodeNewRoman NF
 &lt;p&gt;发布时间: 2025-05-27 23:00&lt;/p&gt;</description><guid isPermaLink="false">BV12vjZzaEPM</guid><pubDate>Tue, 27 May 2025 23:00:00 +0000</pubDate></item><item><title>【git worktree】让30%的git stash惨遭失业</title><link>https://www.bilibili.com/video/BV1m2NtzpEXY</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/f03daeccba8629d7baa1128fde344c507f79ce9e.jpg" alt="【git worktree】让30%的git stash惨遭失业"&gt;
 &lt;p&gt;&lt;strong&gt;【git worktree】让30%的git stash惨遭失业&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 04:02 | 播放: 75,136 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 04:02 | 播放: 75,137 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频介绍了 git worktree 的概念和用法。
 
 ide: vscode
@@ -147,7 +147,7 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-07-02 01:00&lt;/p&gt;</description><guid isPermaLink="false">BV1bw3HzDEuU</guid><pubDate>Wed, 02 Jul 2025 01:00:00 +0000</pubDate></item><item><title>【Gemini CLI】让最强模型接管我的电脑</title><link>https://www.bilibili.com/video/BV1YKGwzgE6D</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/289e9ce7e6b50a83aedfb7110f640e7b5066a676.jpg" alt="【Gemini CLI】让最强模型接管我的电脑"&gt;
 &lt;p&gt;&lt;strong&gt;【Gemini CLI】让最强模型接管我的电脑&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 06:25 | 播放: 46,554 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 06:25 | 播放: 46,555 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;今天介绍的工具 gemini cli 可以直接修改我们电脑上的文件，使用的是目前最强的模型之一 gemini 2.5 pro，而且还不用花一分钱。&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-07-09 06:51&lt;/p&gt;</description><guid isPermaLink="false">BV1YKGwzgE6D</guid><pubDate>Wed, 09 Jul 2025 06:51:56 +0000</pubDate></item><item><title>网站不存密码，怎么知道你输对了？【哈希】</title><link>https://www.bilibili.com/video/BV1W1utzZESe</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/90b1de9c2d879358c260025bcf62103cbb0fb4b6.jpg" alt="网站不存密码，怎么知道你输对了？【哈希】"&gt;
 &lt;p&gt;&lt;strong&gt;网站不存密码，怎么知道你输对了？【哈希】&lt;/strong&gt;&lt;/p&gt;
@@ -198,7 +198,7 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-10-03 14:20&lt;/p&gt;</description><guid isPermaLink="false">BV1j7HLzkE6q</guid><pubDate>Fri, 03 Oct 2025 14:20:05 +0000</pubDate></item><item><title>在Python中用多线程之前，需要先搞懂这些</title><link>https://www.bilibili.com/video/BV1tVsyzUEtX</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/81b102a4f6bea1e32da6e506f0b2c5b51ce7e8ab.jpg" alt="在Python中用多线程之前，需要先搞懂这些"&gt;
 &lt;p&gt;&lt;strong&gt;在Python中用多线程之前，需要先搞懂这些&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 11:26 | 播放: 49,504 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 11:26 | 播放: 49,506 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;1. 多线程可以让你的程序同时开始多个任务。CPU 可以在它们之间交替执行，缩短运行时间；
 
 2. 通过 Python 的 threading 我们可以管理线程，但更省力的方式是通过 concurrent 库使用线程池；
@@ -220,7 +220,7 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-11-21 04:00&lt;/p&gt;</description><guid isPermaLink="false">BV1vBCTBQEnq</guid><pubDate>Fri, 21 Nov 2025 04:00:00 +0000</pubDate></item><item><title>为什么大佬都在用 Github Actions 做 CICD？</title><link>https://www.bilibili.com/video/BV1jNSEBiE6D</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/0c6afb89c79da57e5849eb0ecbd2bdb2c6629d54.jpg" alt="为什么大佬都在用 Github Actions 做 CICD？"&gt;
 &lt;p&gt;&lt;strong&gt;为什么大佬都在用 Github Actions 做 CICD？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 10:02 | 播放: 66,618 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 10:02 | 播放: 66,623 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频介绍了如何使用 github actions 实现 CICD。
 
 视频中展示的仓库：https://github.com/huccihuang/cicd-example
@@ -235,12 +235,12 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2025-12-02 12:09&lt;/p&gt;</description><guid isPermaLink="false">BV1QhS4BSE1e</guid><pubDate>Tue, 02 Dec 2025 12:09:32 +0000</pubDate></item><item><title>原来我，一点都不懂 git</title><link>https://www.bilibili.com/video/BV18ZiFB3EUy</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/43934a8380342e8e65e163d7f0ece703b25e6406.jpg" alt="原来我，一点都不懂 git"&gt;
 &lt;p&gt;&lt;strong&gt;原来我，一点都不懂 git&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 06:16 | 播放: 62,797 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 06:16 | 播放: 62,800 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;git 的本质，其实只是三个对象&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-01-02 09:10&lt;/p&gt;</description><guid isPermaLink="false">BV18ZiFB3EUy</guid><pubDate>Fri, 02 Jan 2026 09:10:48 +0000</pubDate></item><item><title>AI 毁了我的代码，直到我开始TDD</title><link>https://www.bilibili.com/video/BV1KK6jBREec</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/8834093ebc3a8921aaa0fa859ff1074e0fd2dfea.jpg" alt="AI 毁了我的代码，直到我开始TDD"&gt;
 &lt;p&gt;&lt;strong&gt;AI 毁了我的代码，直到我开始TDD&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 02:54 | 播放: 49,844 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 02:54 | 播放: 49,846 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;知识星球 https://t.zsxq.com/lNpbi
 欢迎加入学习！&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-01-28 09:15&lt;/p&gt;</description><guid isPermaLink="false">BV1KK6jBREec</guid><pubDate>Wed, 28 Jan 2026 09:15:00 +0000</pubDate></item><item><title>我用阿里云搭了个真正的个人助手 | clawdbot | openclaw | moltbot</title><link>https://www.bilibili.com/video/BV1Rt6qBFE6t</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/39a5933f1b7105eb56e2db5ca58129cfcb7a0b05.jpg" alt="我用阿里云搭了个真正的个人助手 | clawdbot | openclaw | moltbot"&gt;
@@ -267,7 +267,7 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-03-24 10:25&lt;/p&gt;</description><guid isPermaLink="false">BV1YyQBBtEfN</guid><pubDate>Tue, 24 Mar 2026 10:25:21 +0000</pubDate></item><item><title>AI 时代，我为什么反而回到终端?</title><link>https://www.bilibili.com/video/BV1SeX1B3E21</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/203b8c4356cce70bae41f62786e409bae1507e3d.jpg" alt="AI 时代，我为什么反而回到终端?"&gt;
 &lt;p&gt;&lt;strong&gt;AI 时代，我为什么反而回到终端?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 03:33 | 播放: 42,507 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 03:33 | 播放: 42,512 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这期视频说明了为什么AI时代更要重视终端，并介绍了一些终端好物&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-03-29 09:00&lt;/p&gt;</description><guid isPermaLink="false">BV1SeX1B3E21</guid><pubDate>Sun, 29 Mar 2026 09:00:00 +0000</pubDate></item><item><title>Prompt 和 Context 之后，为什么所有人都在说 Harness？</title><link>https://www.bilibili.com/video/BV1eM9uB7EuS</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/7288a4725c9fd467bd2c26181147055f91654094.jpg" alt="Prompt 和 Context 之后，为什么所有人都在说 Harness？"&gt;
 &lt;p&gt;&lt;strong&gt;Prompt 和 Context 之后，为什么所有人都在说 Harness？&lt;/strong&gt;&lt;/p&gt;
@@ -290,23 +290,23 @@ font: codenewroman nf&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-05-21 09:00&lt;/p&gt;</description><guid isPermaLink="false">BV18NLx6fEAq</guid><pubDate>Thu, 21 May 2026 09:00:00 +0000</pubDate></item><item><title>6 分钟了解 Python 3.15 什么值得看</title><link>https://www.bilibili.com/video/BV1qZg863ECF</link><description>&lt;img src="https://i1.hdslb.com/bfs/archive/f961620e3570306e963e71f8b990976af463b7d4.jpg" alt="6 分钟了解 Python 3.15 什么值得看"&gt;
 &lt;p&gt;&lt;strong&gt;6 分钟了解 Python 3.15 什么值得看&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 06:07 | 播放: 30,215 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 06:07 | 播放: 30,217 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;python3.15 值得看的 5 个新特性
 知识星球 https://t.zsxq.com/cGn0U&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-07-24 09:00&lt;/p&gt;</description><guid isPermaLink="false">BV1qZg863ECF</guid><pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate></item><item><title>7 分钟了解 10 种 RAG 策略</title><link>https://www.bilibili.com/video/BV17J3B6PEGK</link><description>&lt;img src="https://i2.hdslb.com/bfs/archive/3b34d46f6fd4b70c878ba86ffb6b893672f056de.jpg" alt="7 分钟了解 10 种 RAG 策略"&gt;
 &lt;p&gt;&lt;strong&gt;7 分钟了解 10 种 RAG 策略&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 07:31 | 播放: 45,191 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 07:31 | 播放: 45,205 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频介绍了 10 种 rag 策略
 
 知识星球 -&gt; https://t.zsxq.com/cGn0U&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-07-30 09:00&lt;/p&gt;</description><guid isPermaLink="false">BV17J3B6PEGK</guid><pubDate>Thu, 30 Jul 2026 09:00:00 +0000</pubDate></item><item><title>几分钟让 Qoder 给我的 obsidian 写了个新插件，更加顺手啦</title><link>https://www.bilibili.com/video/BV1L54962Ey1</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/305c4cd509818cc6ed2403c32b30c470ad04ff15.jpg" alt="几分钟让 Qoder 给我的 obsidian 写了个新插件，更加顺手啦"&gt;
 &lt;p&gt;&lt;strong&gt;几分钟让 Qoder 给我的 obsidian 写了个新插件，更加顺手啦&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 03:59 | 播放: 51,812 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 03:59 | 播放: 51,818 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-08-30 06:47&lt;/p&gt;</description><guid isPermaLink="false">BV1L54962Ey1</guid><pubDate>Sun, 30 Aug 2026 06:47:11 +0000</pubDate></item><item><title>7 分钟学会使用 Pi，现在最好的 agent（之一）</title><link>https://www.bilibili.com/video/BV1MSti6XEui</link><description>&lt;img src="https://i0.hdslb.com/bfs/archive/7e168be8ab4ebad3b9e48f46d09986e61fa05560.jpg" alt="7 分钟学会使用 Pi，现在最好的 agent（之一）"&gt;
 &lt;p&gt;&lt;strong&gt;7 分钟学会使用 Pi，现在最好的 agent（之一）&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UP主: Hucci写代码 | 分类: 未知&lt;/p&gt;
-&lt;p&gt;时长: 07:26 | 播放: 25,099 | 弹幕: 0&lt;/p&gt;
+&lt;p&gt;时长: 07:26 | 播放: 25,254 | 弹幕: 0&lt;/p&gt;
 &lt;p&gt;这个视频介绍了 pi coding agent 的使用方法。&lt;/p&gt;
 &lt;p&gt;发布时间: 2026-09-04 06:23&lt;/p&gt;</description><guid isPermaLink="false">BV1MSti6XEui</guid><pubDate>Fri, 04 Sep 2026 06:23:14 +0000</pubDate></item></channel></rss>
